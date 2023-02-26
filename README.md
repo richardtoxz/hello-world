@@ -1,2 +1,2 @@
 # hello-world
-Aprendendo github
+Aprendendo github pelo guia padrao do site github
